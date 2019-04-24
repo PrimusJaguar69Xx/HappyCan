@@ -1,0 +1,5 @@
+{
+    "sketch": "MPU6050COMM.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM4"
+}

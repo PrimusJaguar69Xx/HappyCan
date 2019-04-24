@@ -1,0 +1,16 @@
+﻿  DataCollection.cpp
+c:\users\jacob\documents\arduino\libraries\data.h(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\documents\cansat 2019\groundstation\groundstation\datacollection.cpp(5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\jacob\documents\cansat 2019\groundstation\groundstation\datacollection.cpp(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\jacob\documents\cansat 2019\groundstation\groundstation\datacollection.cpp(13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\jacob\documents\cansat 2019\groundstation\groundstation\datacollection.cpp(15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Entry.cpp
+c:\users\jacob\documents\arduino\libraries\data.h(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\documents\cansat 2019\groundstation\groundstation\entry.cpp(19): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(182): note: see declaration of 'strerror'
+  Generating Code...
+  GroundStation.vcxproj -> C:\Users\jacob\Documents\CanSat 2019\GroundStation\Debug\GroundStation.exe
